@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: .gitignore
+SHA1-Digest: 0prDOwzrgLa94oK+EZTnW0Rzjr8=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 13gQkcsaSLpTGOOW+BrQyMVrIY0=
+
+Name: .gitattributes
+SHA1-Digest: SKw0WMKyWo1XoYj5+4x7uSKnPSU=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: common/service.sh
+SHA1-Digest: giXjdnI/r9KkMasTszrwmFf3S3E=
+
+Name: drivers/libv4a_fx_jb_X86.so
+SHA1-Digest: vysQdUcdOciHdJGrhuyxc3vCC1Q=
+
+Name: config.sh
+SHA1-Digest: 2vk9xMz3yyHAgzsmcHBplqon+to=
+
+Name: README.md
+SHA1-Digest: lqtM+3NOYys3Eid9yjyUIzHI7mM=
+
+Name: common/file_contexts_image
+SHA1-Digest: 7mOjIKAC3jXknKhbFPSisIwVRcY=
+
+Name: module.prop
+SHA1-Digest: lQ8XdZVMBr5Pt/tYtQSWP9g7VTw=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
+Name: drivers/libv4a_fx_jb_NEON.so
+SHA1-Digest: Peo86kDBpXQepxt0TAQhi3jICsw=
+
+Name: app/ViPER4Android.apk
+SHA1-Digest: zbQtVAGjqRZt8wlS28IjxJEomXw=
+

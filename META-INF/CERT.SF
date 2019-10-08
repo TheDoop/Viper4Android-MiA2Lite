@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: U7fNFrDLvwu59o2S0DJiQj4aae4=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: .gitignore
+SHA1-Digest-Manifest: Kv3jupozCj9afmZk0XFxLaMWams=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: EROOiGvVM8wGvuN5zJiOU5opoko=
+
+Name: .gitattributes
+SHA1-Digest-Manifest: VJvL32Kgn3r0mLHw8YEc77HAwV0=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: VOD+uAy8s35iG5OobtlLuULs52E=
+
+Name: drivers/libv4a_fx_jb_X86.so
+SHA1-Digest-Manifest: dGBlUMZHZruD8c55R1xHzKQ+X5o=
+
+Name: config.sh
+SHA1-Digest-Manifest: SjG/7Tmwk/pyJ+OSYEZdITMQlnM=
+
+Name: README.md
+SHA1-Digest-Manifest: uYv+RdL+9j5V7B0NUkFaKc6LBb4=
+
+Name: common/file_contexts_image
+SHA1-Digest-Manifest: KlJhoGQmnBSSFvSZ5mEElTtIpSU=
+
+Name: module.prop
+SHA1-Digest-Manifest: HhmUxyQEn3bpM4jWyJZ2YOIjhGQ=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: drivers/libv4a_fx_jb_NEON.so
+SHA1-Digest-Manifest: PoIgEkWSvMEtuQXZQeBIUHu3DrY=
+
+Name: app/ViPER4Android.apk
+SHA1-Digest-Manifest: fnELwHy8OqhAv/M+xw2Run3OgMs=
+
